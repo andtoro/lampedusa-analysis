@@ -107,7 +107,7 @@ Edit `config.py` to set:
 
 ## Data
 
-Due to file size limitations, data files are not included in this repository. The analysis uses:
+Due to privacy policies, data files are not included in this repository. The analysis uses:
 
 - **AERONET observations**: Aerosol optical properties from Lampedusa station
 - **FARM model outputs**: Air quality model simulations over Italy
